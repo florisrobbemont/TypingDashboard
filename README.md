@@ -20,6 +20,6 @@ What if we can create a way to store the full 512 type in a single column that i
 - Searchable (where C > B, where type == ST, where demon == NF)
 - Fast (for obvious reasons)
 
-If you're an NT and wants to brainstorm on this:
+If you have ideas and want to brainstorm on this:
 
 ![](https://memecreator.org/static/images/memes/4797719.jpg)
